@@ -1,0 +1,11 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+section {
+    width: 400px;
+    background-color: burlywood;
+    padding: 20px;
+    border: 2px solid palevioletred;
+    margin:20px;
+}

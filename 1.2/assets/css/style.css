@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+section {
+    background-color: aquamarine;
+    padding:20px;
+    width: 200px;
+    border: 5px solid black;
+    margin:25px;
+}
+
+main {
+    width: 300px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
